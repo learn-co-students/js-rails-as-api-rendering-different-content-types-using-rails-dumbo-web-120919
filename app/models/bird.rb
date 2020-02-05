@@ -1,2 +1,2 @@
-class Bird < ApplicationRecord
+class Bird< ApplicationRecord
 end
